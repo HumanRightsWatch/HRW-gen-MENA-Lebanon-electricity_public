@@ -1,0 +1,66 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 0,
+                "path": "~/OneDrive - Human Rights Watch/HRW/HRW-gen-MENA-Lebabon-electricity/processing/src/lebanon_electricity_processing.R",
+                "line_number": 200,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 200,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": true,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 2,
+                "path": "~/Documents/Onedrive NEW/OneDrive - Human Rights Watch/HRW/HRW-gen-MENA-Lebabon-electricity/descriptives/src/lebanon_electricity_descriptives.R",
+                "line_number": 246,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 246,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": true,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 6,
+                "path": "~/Documents/Onedrive NEW/OneDrive - Human Rights Watch/HRW/HRW-gen-MENA-Lebabon-electricity/descriptives/src/lebanon_electricity_descriptives.R",
+                "line_number": 234,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 234,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": true,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            },
+            {
+                "id": 7,
+                "path": "~/Documents/Onedrive NEW/OneDrive - Human Rights Watch/HRW/HRW-gen-MENA-Lebabon-electricity/descriptives/src/lebanon_electricity_descriptives.R",
+                "line_number": 398,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 398,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": true,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
