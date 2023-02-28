@@ -1,6 +1,6 @@
 # Human Rights Watch analysis of the rights to electricity, food, and social protection in Lebanon
 
-## Quantitative analyses from the Human Rights Watch report  ["Lebanon: Rising Poverty, Hunger Amid Economic Crisis"](https://www.hrw.org/news/2022/12/12/lebanon-rising-poverty-hunger-amid-economic-crisis) and a forthcoming (Feb 2023) report on the right to electricity.
+## Quantitative analyses from the Human Rights Watch reports  ["Lebanon: Rising Poverty, Hunger Amid Economic Crisis"](https://www.hrw.org/news/2022/12/12/lebanon-rising-poverty-hunger-amid-economic-crisis) and ["“Cut Off From Life Itself” Lebanon’s Failure on the Right to Electricity"](https://www.hrw.org/node/384159)
 
 
 
